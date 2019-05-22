@@ -1,0 +1,894 @@
+('C:\\Users\\Preston Neal\\Desktop\\coding problems\\Python\\Usermode Font '
+ 'Driver Host\\build\\UsermodeFontDriverHost\\PYZ-00.pyz',
+ [('ntpath',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\typing.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\__future__.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\difflib.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\ast.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\inspect.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\cmd.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\bdb.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\opcode.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\dis.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\codeop.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\code.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\glob.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\shlex.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\runpy.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\platform.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\tty.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\optparse.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\uu.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\bisect.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\random.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\gzip.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\shutil.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\socket.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\pdb.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\string.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\pprint.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\doctest.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\struct.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\gettext.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\selectors.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\os.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pynput.keyboard',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\keyboard\\__init__.py',
+   'PYMODULE'),
+  ('pynput',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\__init__.py',
+   'PYMODULE'),
+  ('pynput.mouse',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\mouse\\__init__.py',
+   'PYMODULE'),
+  ('pynput.mouse._xorg',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\mouse\\_xorg.py',
+   'PYMODULE'),
+  ('pynput._util.xorg',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\_util\\xorg.py',
+   'PYMODULE'),
+  ('pynput._util.xorg_keysyms',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\_util\\xorg_keysyms.py',
+   'PYMODULE'),
+  ('pynput._util',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\_util\\__init__.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\queue.py',
+   'PYMODULE'),
+  ('six',
+   'C:\\Users\\Preston '
+   'Neal\\AppData\\Roaming\\Python\\Python37\\site-packages\\six.py',
+   'PYMODULE'),
+  ('Xlib.XK',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\XK.py',
+   'PYMODULE'),
+  ('Xlib',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\__init__.py',
+   'PYMODULE'),
+  ('Xlib.ext.nvcontrol',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\ext\\nvcontrol.py',
+   'PYMODULE'),
+  ('Xlib.ext.xfixes',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\ext\\xfixes.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.technical',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\technical.py',
+   'PYMODULE'),
+  ('Xlib.support.unix_connect',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\support\\unix_connect.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.apl',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\apl.py',
+   'PYMODULE'),
+  ('Xlib.protocol.rq',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\protocol\\rq.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\__init__.py',
+   'PYMODULE'),
+  ('Xlib.xobject.colormap',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\xobject\\colormap.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.xk3270',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\xk3270.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.latin1',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\latin1.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.xkb',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\xkb.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.special',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\special.py',
+   'PYMODULE'),
+  ('Xlib.protocol.request',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\protocol\\request.py',
+   'PYMODULE'),
+  ('Xlib.protocol.structs',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\protocol\\structs.py',
+   'PYMODULE'),
+  ('Xlib.protocol.event',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\protocol\\event.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.greek',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\greek.py',
+   'PYMODULE'),
+  ('Xlib.xobject.fontable',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\xobject\\fontable.py',
+   'PYMODULE'),
+  ('Xlib.protocol.display',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\protocol\\display.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.katakana',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\katakana.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.latin3',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\latin3.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.thai',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\thai.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.korean',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\korean.py',
+   'PYMODULE'),
+  ('Xlib.ext.record',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\ext\\record.py',
+   'PYMODULE'),
+  ('Xlib.ext.xinerama',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\ext\\xinerama.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.cyrillic',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\cyrillic.py',
+   'PYMODULE'),
+  ('Xlib.rdb',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\rdb.py',
+   'PYMODULE'),
+  ('Xlib.ext.randr',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\ext\\randr.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.latin4',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\latin4.py',
+   'PYMODULE'),
+  ('Xlib.xobject.icccm',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\xobject\\icccm.py',
+   'PYMODULE'),
+  ('Xlib.xobject.cursor',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\xobject\\cursor.py',
+   'PYMODULE'),
+  ('Xlib.support.connect',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\support\\connect.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.miscellany',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\miscellany.py',
+   'PYMODULE'),
+  ('Xlib.Xcursorfont',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\Xcursorfont.py',
+   'PYMODULE'),
+  ('Xlib.ext.xinput',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\ext\\xinput.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.xf86',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\xf86.py',
+   'PYMODULE'),
+  ('Xlib.support.vms_connect',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\support\\vms_connect.py',
+   'PYMODULE'),
+  ('Xlib.ext.shape',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\ext\\shape.py',
+   'PYMODULE'),
+  ('Xlib.xobject.resource',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\xobject\\resource.py',
+   'PYMODULE'),
+  ('Xlib.ext.composite',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\ext\\composite.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.latin2',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\latin2.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.hebrew',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\hebrew.py',
+   'PYMODULE'),
+  ('Xlib.xauth',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\xauth.py',
+   'PYMODULE'),
+  ('Xlib.xobject',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\xobject\\__init__.py',
+   'PYMODULE'),
+  ('Xlib.support.lock',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\support\\lock.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.publishing',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\publishing.py',
+   'PYMODULE'),
+  ('Xlib.ext.ge',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\ext\\ge.py',
+   'PYMODULE'),
+  ('Xlib.ext.security',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\ext\\security.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.arabic',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\keysymdef\\arabic.py',
+   'PYMODULE'),
+  ('Xlib.xobject.drawable',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\xobject\\drawable.py',
+   'PYMODULE'),
+  ('Xlib.support',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\support\\__init__.py',
+   'PYMODULE'),
+  ('Xlib.Xutil',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\Xutil.py',
+   'PYMODULE'),
+  ('Xlib.Xatom',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\Xatom.py',
+   'PYMODULE'),
+  ('Xlib.error',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\error.py',
+   'PYMODULE'),
+  ('Xlib.threaded',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\threaded.py',
+   'PYMODULE'),
+  ('Xlib.protocol',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\protocol\\__init__.py',
+   'PYMODULE'),
+  ('Xlib.X',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\X.py',
+   'PYMODULE'),
+  ('Xlib.ext.xtest',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\ext\\xtest.py',
+   'PYMODULE'),
+  ('Xlib.ext',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\ext\\__init__.py',
+   'PYMODULE'),
+  ('Xlib.display',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\Xlib\\display.py',
+   'PYMODULE'),
+  ('pynput.mouse._win32',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\mouse\\_win32.py',
+   'PYMODULE'),
+  ('pynput._util.win32',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\_util\\win32.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('pynput.mouse._darwin',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\mouse\\_darwin.py',
+   'PYMODULE'),
+  ('pynput._util.darwin',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\_util\\darwin.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('pynput.mouse._base',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\mouse\\_base.py',
+   'PYMODULE'),
+  ('pynput.keyboard._xorg',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\keyboard\\_xorg.py',
+   'PYMODULE'),
+  ('pynput.keyboard._win32',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\keyboard\\_win32.py',
+   'PYMODULE'),
+  ('pynput._util.win32_vks',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\_util\\win32_vks.py',
+   'PYMODULE'),
+  ('pynput.keyboard._darwin',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\keyboard\\_darwin.py',
+   'PYMODULE'),
+  ('pynput.keyboard._base',
+   'c:\\users\\preston '
+   'neal\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pynput\\keyboard\\_base.py',
+   'PYMODULE')])
